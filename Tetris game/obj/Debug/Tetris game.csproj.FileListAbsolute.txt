@@ -1,0 +1,9 @@
+U:\ENGG 3080\Tetris game\Tetris game\bin\Debug\Tetris game.exe.config
+U:\ENGG 3080\Tetris game\Tetris game\obj\Debug\Tetris game.csprojResolveAssemblyReference.cache
+U:\ENGG 3080\Tetris game\Tetris game\obj\Debug\Tetris_game.Form1.resources
+U:\ENGG 3080\Tetris game\Tetris game\obj\Debug\Tetris_game.Properties.Resources.resources
+U:\ENGG 3080\Tetris game\Tetris game\obj\Debug\Tetris game.csproj.GenerateResource.Cache
+U:\ENGG 3080\Tetris game\Tetris game\bin\Debug\Tetris game.exe
+U:\ENGG 3080\Tetris game\Tetris game\bin\Debug\Tetris game.pdb
+U:\ENGG 3080\Tetris game\Tetris game\obj\Debug\Tetris game.exe
+U:\ENGG 3080\Tetris game\Tetris game\obj\Debug\Tetris game.pdb
